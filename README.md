@@ -1,4 +1,4 @@
-### Velkommen til en Alpha Koders Github 👋
+### Hej og velkommen til 👋
 
 [![Ertan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErtanEnsar&count_private=true&theme=highcontrast)](https://github.com/ErtanEnsar/github-readme-stats)
 ### Meme Generator 👇
