@@ -6,7 +6,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently studying CS at Copenghagen University
+
 
 
 
